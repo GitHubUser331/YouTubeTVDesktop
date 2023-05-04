@@ -25,6 +25,10 @@ So, the app uses the TVCLIENT 1.5 library to run YouTube TV.
 
 You can modify it, but you will need node.js libraries and the source code is currently not fully editable.
 
+You can get started by editing the main.js and nativifier.js. These define the url annd working of the app.
+You only need to edit the nativifier.js and commit the file changes and after verifying your changes, the application will be packaged into a .zip file or an
+.exe installer.
+
 
 # NOTE: THIS PRODUCT IS LICENSED TO OPENMADE LLC AND YOU SHOULD ACCEPT THE YOUTUBE TERMS OF SERVICE AND LICENSE TO USE IT.
 
