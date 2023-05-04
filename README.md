@@ -17,6 +17,14 @@ Licensed by MIT License.
 If there is any kind of error or bug, please report it here.
 
 Thank you
+# For the developers:
+
+This app was made from the node.js library used to port html files to windows apps.
+
+So, the app uses the TVCLIENT 1.5 library to run YouTube TV.
+
+You can modify it, but you will need node.js libraries and the source code is currently not fully editable.
+
 
 # NOTE: THIS PRODUCT IS LICENSED TO OPENMADE LLC AND YOU SHOULD ACCEPT THE YOUTUBE TERMS OF SERVICE AND LICENSE TO USE IT.
 
