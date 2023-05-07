@@ -6,7 +6,7 @@ This app is a port of the YouTube TV application.
 
 *How to use:*
 
-1. Choose a type of installation file. (Installer or Portable)
+1. Choose and download a type of installation file from <a href=https://www.github.com/GitHubUser331/YouTubeTVDesktop/releases>releases.</a> (Installer or Portable)
 2. For the installer, double-click the .exe file, run it and follow the steps to install YouTube TV on your desktop.
 3. For the portable file, extract the file and go inside the folder named "YouTube TV-win32-x64" and double click on the "YouTube TV.exe" file to run it.
 4. Currently, this program is only available for Windows.
