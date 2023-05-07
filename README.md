@@ -16,7 +16,7 @@ Licensed by MIT License.
 
 If there is any kind of error or bug, please report it here.
 
-Thank you
+Thank You!
 # For the developers:
 
 This app was made from the node.js library used to port HTML files to windows apps.
