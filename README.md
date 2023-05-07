@@ -1,7 +1,7 @@
 # YouTube TV Desktop
 
 
-This app is a port of the YouTube TV application.
+YouTube TV Desktop is a desktop port of the YouTube TV application.
 
 
 *How to use:*
