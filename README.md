@@ -14,7 +14,7 @@ YouTube TV Desktop is a desktop port of the YouTube TV application.
 This is an open-source project, so you can modify and distribute as long as you agree to the YouTube Terms of Service and License.
 Licensed by MIT License.
 
-If there is any kind of error or bug, please report it here.
+If you find any type of error or bug, please report it here.
 
 Thank You!
 # For the developers:
@@ -26,8 +26,7 @@ So, the app uses the TVCLIENT 1.5 library to run YouTube TV.
 You can modify it, but you will need node.js libraries and the source code is currently not fully editable.
 
 You can get started by editing the main.js and nativefier.js. These define the url and working of the app.
-You only need to edit the nativefier.js and commit the file changes and after verifying your changes, the application will be packaged into a .zip file or an
-.exe installer.
+You only need to edit the nativefier.js and commit the file changes. After verifying your changes, the application will be packaged into a .zip file or a .exe installer.
 
 
 # NOTE: THIS PRODUCT IS LICENSED TO OPENMADE LLC AND YOU SHOULD ACCEPT THE YOUTUBE TERMS OF SERVICE AND LICENSE TO USE IT.
