@@ -31,4 +31,4 @@ You only need to edit the nativefier.js and commit the file changes. After verif
 
 # NOTE: THIS PRODUCT IS LICENSED TO OPENMADE LLC AND YOU SHOULD ACCEPT THE YOUTUBE TERMS OF SERVICE AND LICENSE TO USE IT.
 
-(C) OpenMade LLC. All rights reserved
+### © OpenMade LLC. All rights reserved
